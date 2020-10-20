@@ -1,10 +1,4 @@
-<h1> MSDS19087_Project_DLSpring2020 </h2>
-This repository contains code and results for the Course Project by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This repository is only for learning purposes and is not intended to be used for commercial purposes. 
-<br /> 
-<p> Course Link: <a href="http://im.itu.edu.pk/deep-learning-spring-2020/">http://im.itu.edu.pk/deep-learning-spring-2020/</a></p>
-<hr />
-<h1> Urdu Caption Generation using Attention Mechanism (G3K) </h1>
-<hr />
+<h1> Effecient Urdu Caption Generation using Attention Mechanism </h1>
 <h2> Abstract </h2>
 <p>Recent advancements in deep learning has created a lot of opportunities to solve those real world problems which remained unsolved for more than a decade. Automatic caption generation is a major research field, and the research community has done a lot of work on this problem in most common languages like English. Urdu is the national language of Pakistan and also much spoken and understood in the sub-continent region of Pakistan-India, and yet no work has been done for Urdu language caption generation. Our research aims to fill this gap by developing an attention based deep learning model using techniques of sequence modelling specialized for Urdu language. We have prepared a dataset in Urdu language by translating a subset of ”Flickr8k” dataset containing 700 ’man’ images. We evaluate our proposed technique on this dataset and show that it is able to achieve a BLEU score of 0.83 on Urdu language. We improve on the previously proposed techniques by using better CNN architectures and optimization techniques. Furthermore, we also tried adding a grammar loss to the model in order to make the predictions grammatically correct.</p>
 <h2> Dataset </h2>
